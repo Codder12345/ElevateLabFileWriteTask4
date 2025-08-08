@@ -72,8 +72,9 @@ Choose an option: 2
 === Your Notes ===
 - Hello from Java!
 
-📌 Author
-👩‍💻 pooja waykar
+🧑‍💻 Author
+Pooja Waykar
+Project: write note  Language: Java
 
 
 
