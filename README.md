@@ -36,6 +36,7 @@ bash
 Copy
 Edit
 java FileOperationsApp
+
 📂 File Structure
 csharp
 Copy
@@ -43,6 +44,7 @@ Edit
 .
 ├── FileOperationsApp.java
 ├── notes.txt      <-- (Created automatically when you add a note)
+
 
 📷 Demo
 pgsql
@@ -64,6 +66,8 @@ Choose an option: 2
 
 === Your Notes ===
 - This is my first note!
+
+  
 - 🧠 Concepts Practiced
 File Handling in Java
 
@@ -74,6 +78,7 @@ Exception Propagation
 BufferedReader vs FileReader
 
 Command-line UI interaction
+
 📌 Author
 Pooja Waykar
 GitHub: Codder12345
