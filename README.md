@@ -50,6 +50,7 @@ This is developed as part of a **Java Developer Internship Task (File I/O – No
 'java FileOperationsApp'.
 
 
+```
 ✨ Sample Output
 pgsql
 Copy
@@ -70,6 +71,24 @@ Choose an option: 2
 
 === Your Notes ===
 - Hello from Java!
+
+📌 Author
+👩‍💻 pooja waykar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
