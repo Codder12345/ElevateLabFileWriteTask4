@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+F:\FileHandalingTask4\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2545271554.index
+1110071154.index
